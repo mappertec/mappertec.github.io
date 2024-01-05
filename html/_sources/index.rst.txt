@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mapper's documentation!
+Welcome to mapper.dev documentation!
 ==================================
 
 .. toctree::
