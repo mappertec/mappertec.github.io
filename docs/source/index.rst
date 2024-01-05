@@ -6,6 +6,8 @@
 Welcome to mapper.dev documentation!
 ==================================
 
+mapper is a Kotlin library which can be used to transform
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
